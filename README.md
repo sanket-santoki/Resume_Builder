@@ -2,6 +2,7 @@
 This project is a dynamic and user-friendly resume builder implemented using React JS. It empowers users to effortlessly create and edit their resumes with a live preview feature, making the process seamless and intuitive. The project also includes additional features to enhance the user experience.
 
 # Currently Under Development
+![Under_Development](Resume_Template/Construction.png) 
 - Stay Tuned For More Updates
 
 ## Upcoming Features
